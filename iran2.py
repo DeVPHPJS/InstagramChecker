@@ -29,8 +29,8 @@ user_agent = 'Mozilla/5.0 (X11; Ubuntu; Linux i686) AppleWebKit/537.36 (KHTML, l
 user_agent = 'Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36'
 
 
-id_my = '1037538162'
-token_my = '5252449423:AAHJbrgaQ7xLaEBt-Xim86aGKJSXd6HJr3I'
+id_my = '1424133944'
+token_my = '5027720804:AAGH_X7wfYKKT_IrYrL0vx4CMlC_5bPuSRg'
 os.system('rm -rf Compo.txt')
 num = '''\033[1;31m 912 + 912 + 916 +910 +913 +917 + 919 + 933  
 '''
